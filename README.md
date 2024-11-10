@@ -14,6 +14,11 @@ I'm a passionate MERN Stack Web Developer with hands-on experience in building f
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekul42&label=Profile%20views&color=0e75b6&style=flat" alt="tarekul42" /> </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tarekul42&label=Profile%20views&color=0891b2&style=for-the-badge" alt="tarekul42" />
+</p>
+
+
 <a href="https://www.github.com/tarekul42" target="_blank" rel="noreferrer"><img
 src="https://komarev.com/ghpvc/?username=tarekul42&label=Profile%20views&color=0891b2&labelColor=1c1917" /></a>
 

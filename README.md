@@ -12,9 +12,9 @@ I'm a passionate MERN Stack Web Developer with hands-on experience in building f
 - 🤝  I'm open to collaborating on Full Stack Project
 - ⚡  I'm Someone who're 42
 
-<a>
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=tarekul42&label=Profile%20views&color=0891b2&labelColor=1c1917&style=for-the-badge" alt="tarekul42" />
-</a> <a href="https://www.github.com/tarekul42" target="_blank" rel="noreferrer"><img
+</p> <a href="https://www.github.com/tarekul42" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tarekul42?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/tarekul42" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tarekul42?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img

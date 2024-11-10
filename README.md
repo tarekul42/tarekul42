@@ -36,6 +36,9 @@ src="https://img.shields.io/twitter/follow/tarekul42?logo=twitter&style=for-the-
 /></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
+
+### Badges
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarekul42" alt="tarekul42" /></a> </p>
 
 <!-- BLOG-POST-LIST:START -->
@@ -43,7 +46,6 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 
 
 
-### Badges
 
 <b>My GitHub Stats</b>
 

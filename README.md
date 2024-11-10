@@ -85,6 +85,4 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 - [Project 3](https://github.com/tarekul42/broken-phone.git) - Brief description of another project
 
 
-# <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div>

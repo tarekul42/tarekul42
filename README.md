@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Tarekul Islam Rifat</h1>
 <h3>MERN Stack Web Developer</h3>
 
-I'm a passionate MERN Stack Web Developer with hands-on experience in building full-stack applications. I've been learning web development since 2022, and I’m continuously working to expand my skill set. As a student, I enjoy tackling real-world projects that deepen my understanding of both front-end and back-end technologies. Currently, I’m seeking opportunities to contribute to professional projects and bring fresh ideas to a development team. <br />
+I'm a passionate MERN Stack Web Developer with hands-on experience in building full-stack applications. I've been learning web development since 2022, and I’m continuously working to expand my skill set. As a student, I enjoy tackling real-world projects that deepen my understanding of both front-end and back-end technologies. Currently, I’m seeking opportunities to contribute to professional projects and bring fresh ideas to a development team. <br /> <br />
 🌟 Tech Stack: JavaScript | React | Node.js | Express | MongoDB <br />
 💼 Open to work: Actively looking for entry-level roles or internships in web development <br />
 🚀 Goal: Build scalable and user-friendly applications while advancing my career in web development.<br />
@@ -36,11 +36,7 @@ I'm a passionate MERN Stack Web Developer with hands-on experience in building f
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact" alt="tarekul42" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&locale=en" alt="tarekul42" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekul42&" alt="tarekul42" /></p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tarekul Islam Rifat
 ===========================================================================================================================================
@@ -73,6 +69,12 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact" alt="tarekul42" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&locale=en" alt="tarekul42" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekul42&" alt="tarekul42" /></p>
 
 <a href="http://www.github.com/tarekul42"><img src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tarekul42's GitHub stats" /></a>
 

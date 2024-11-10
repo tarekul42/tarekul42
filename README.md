@@ -39,7 +39,7 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 <br/>
 
 
-<a href="http://www.github.com/tarekul42"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact&bg_color=1c1917&hide_border=true&title_color=0891b2" alt="tarekul42" /></a>
+<a align="left" href="http://www.github.com/tarekul42"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact&bg_color=1c1917&hide_border=true&title_color=0891b2" alt="tarekul42" /></a>
 
 <a href="http://www.github.com/tarekul42"><img src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tarekul42's GitHub stats" /></a>
 

@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Tarekul Islam Rifat</h1>
 <h3>MERN Stack Web Developer</h3>
 
-I'm a passionate MERN Stack Web Developer with hands-on experience in building full-stack applications. I've been learning web development since 2022, and I’m continuously working to expand my skill set. As a student, I enjoy tackling real-world projects that deepen my understanding of both front-end and back-end technologies. Currently, I’m seeking opportunities to contribute to professional projects and bring fresh ideas to a development team. 
-🌟 Tech Stack: JavaScript | React | Node.js | Express | MongoDB 
-💼 Open to work: Actively looking for entry-level roles or internships in web development 
-🚀 Goal: Build scalable and user-friendly applications while advancing my career in web development.
+I'm a passionate MERN Stack Web Developer with hands-on experience in building full-stack applications. I've been learning web development since 2022, and I’m continuously working to expand my skill set. As a student, I enjoy tackling real-world projects that deepen my understanding of both front-end and back-end technologies. Currently, I’m seeking opportunities to contribute to professional projects and bring fresh ideas to a development team. <br />
+🌟 Tech Stack: JavaScript | React | Node.js | Express | MongoDB <br />
+💼 Open to work: Actively looking for entry-level roles or internships in web development <br />
+🚀 Goal: Build scalable and user-friendly applications while advancing my career in web development.<br />
 
 * 🌍  I'm based in Comilla, Bangladesh.
 * ✉️  You can contact me at [tarekulrifat142@gmail.com](mailto:tarekulrifat142@gmail.com)
@@ -84,4 +84,8 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 
 <b>Top Repositories</b>
 
+<<<<<<< HEAD
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+=======
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+>>>>>>> a35a5206b5cbbcf9fe1431f5abda361f20714504

@@ -78,11 +78,11 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Top Repositories
+## Top Repositories
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarekul42&rank=SSS,SS,S,A,B" alt="tarekul42" /></a>
-</p>
+- [Project 1](https://github.com/tarekul42/EsPresso-Emporium-client.git) - Description of what the project does
+- [Project 2](https://github.com/tarekul42/the-tour-of-Bangladesh_c.git) - Short summary of this repository
+- [Project 3](https://github.com/tarekul42/broken-phone.git) - Brief description of another project
 
 
 # <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />

@@ -41,7 +41,7 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 
 
 <a href="http://www.github.com/tarekul42">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact&bg_color=1c1917&hide_border=true&title_color=0891b2" alt="tarekul42" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact&bg_color=1c1917&hide_border=true&title_color=0891b2" alt="tarekul42" style="margin-right: 10px;" />
 </a>
 
 

@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tarekul Islam Rifat</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+<h1>Hi 👋, I'm Tarekul Islam Rifat</h1>
+<h3>MERN Stack Web Developer</h3>
+
+I'm a passionate MERN Stack Web Developer with hands-on experience in building full-stack applications. I've been learning web development since 2022, and I’m continuously working to expand my skill set. As a student, I enjoy tackling real-world projects that deepen my understanding of both front-end and back-end technologies. Currently, I’m seeking opportunities to contribute to professional projects and bring fresh ideas to a development team. 
+🌟 Tech Stack: JavaScript | React | Node.js | Express | MongoDB 
+💼 Open to work: Actively looking for entry-level roles or internships in web development 
+🚀 Goal: Build scalable and user-friendly applications while advancing my career in web development.
+
+* 🌍  I'm based in Comilla, Bangladesh.
+* ✉️  You can contact me at [tarekulrifat142@gmail.com](mailto:tarekulrifat142@gmail.com)
+* 🧠  I'm learning NEXTjs
+* 🤝  I'm open to collaborating on Full Stack Project
+* ⚡  I'm Someone who're 42
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekul42&label=Profile%20views&color=0e75b6&style=flat" alt="tarekul42" /> </p>
 
@@ -7,13 +18,6 @@
 
 <p align="left"> <a href="https://twitter.com/tarekul42" target="blank"><img src="https://img.shields.io/twitter/follow/tarekul42?logo=twitter&style=for-the-badge" alt="tarekul42" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **Full Stack Project**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **tarekulrifat142@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

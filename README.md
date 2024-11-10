@@ -70,11 +70,11 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 
 <b>My GitHub Stats</b>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact" alt="tarekul42" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&locale=en" alt="tarekul42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekul42&" alt="tarekul42" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact" alt="tarekul42" /></p>
 
 <a href="https://github.com/tarekul42" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

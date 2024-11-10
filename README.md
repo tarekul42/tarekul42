@@ -70,19 +70,19 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact" alt="tarekul42" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&locale=en" alt="tarekul42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekul42&" alt="tarekul42" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact" alt="tarekul42" /></p>
+
+<a href="https://github.com/tarekul42" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/tarekul42"><img src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tarekul42's GitHub stats" /></a>
 
 <a href="http://www.github.com/tarekul42"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekul42&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/tarekul42"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tarekul42&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/tarekul42" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekul42&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 

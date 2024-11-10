@@ -83,6 +83,7 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 - [Project 1](https://github.com/tarekul42/EsPresso-Emporium-client.git) - Description of what the project does
 - [Project 2](https://github.com/tarekul42/the-tour-of-Bangladesh_c.git) - Short summary of this repository
 - [Project 3](https://github.com/tarekul42/broken-phone.git) - Brief description of another project
+(working with this part)
 
 
 <div width="100%" align="center"></div>

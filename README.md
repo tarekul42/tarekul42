@@ -61,8 +61,12 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
   </tr>
 </table>
 
-### GitHub Commit Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tarekul42&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+## GitHub Commit Graph
+
+<a href="http://www.github.com/tarekul42">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tarekul42&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+
 
 
 

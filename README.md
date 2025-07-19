@@ -10,7 +10,7 @@ I'm a passionate MERN Stack Web Developer with hands-on experience in building f
 - ✉️  You can contact me at [tarekulrifat142@gmail.com](mailto:tarekulrifat142@gmail.com)
 - 🧠  I'm learning NEXTjs
 - 🤝  I'm open to collaborating on Full Stack Project
-- ⚡  tarekul42
+- ⚡  /tarekul42
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tarekul42&label=Profile%20views&color=0891b2&labelColor=1c1917&style=for-the-badge" alt="tarekul42" />

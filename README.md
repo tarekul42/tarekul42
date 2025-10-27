@@ -93,6 +93,6 @@ Currently, I’m seeking opportunities to contribute to professional projects an
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em><br/>
-  — Cory House
+  <em>“let me explain,....”</em><br/>
+  — me
 </p>

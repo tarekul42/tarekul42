@@ -8,9 +8,15 @@ As a student, I enjoy tackling real-world projects that deepen my understanding 
 Currently, I’m seeking opportunities to contribute to professional projects and bring fresh ideas to a development team.
 </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@tarekul42">
+    <img src="https://wakatime.com/badge/user/d1558c50-fba1-48c5-87f4-805c3fe307ec.svg" alt="Wakatime Badge" />
+  </a>
+</p>
+
 ---
 
-<p align="center">
+<p align="center">  
 🌟 JavaScript | React | Node.js | Express | MongoDB <br/>
 💼 Entry-level roles or internships in web development <br/>
 🚀 Build scalable and user-friendly applications while advancing my career. <br/>
@@ -63,13 +69,6 @@ Currently, I’m seeking opportunities to contribute to professional projects an
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://wakatime.com/@tarekul42">
-    <img src="https://wakatime.com/badge/user/d1558c50-fba1-48c5-87f4-805c3fe307ec.svg" alt="Wakatime Badge" />
-  </a>
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact&text_color=ffffff&bg_color=1c1917&hide_border=true&title_color=0891b2" alt="Top Languages" />

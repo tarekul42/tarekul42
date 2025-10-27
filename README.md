@@ -78,7 +78,9 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<figure><embed src="https://wakatime.com/share/@tarekul42/639f2bbf-499b-449b-a415-6db726c6a4b9.svg"></embed></figure>
+## Wakatime Coding Hours
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tarekul42/a2d0c957-9d13-485a-a06c-af845c83a29b.png" /></a>
 
 ## Top Repositories
 

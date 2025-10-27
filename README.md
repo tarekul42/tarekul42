@@ -63,6 +63,8 @@ Currently, I’m seeking opportunities to contribute to professional projects an
   <a href="https://medium.com/@tarekul42"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
 </p>
 
+---
+
 <p align="center">
   <a href="https://wakatime.com/@tarekul42">
     <img src="https://wakatime.com/badge/user/d1558c50-fba1-48c5-87f4-805c3fe307ec.svg" alt="Wakatime Badge" />

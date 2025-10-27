@@ -1,101 +1,122 @@
-<h1>Hi 👋, I'm Tarekul Islam Rifat</h1>
-<h3>MERN Stack Web Developer</h3>
+<div style="background-color:#1c1917; color:#ffffff; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; direction: rtl; text-align: right;">
 
-I'm a passionate MERN Stack Web Developer with hands-on experience in building full-stack applications. I've been learning web development since 2022, and I’m continuously working to expand my skill set. As a student, I enjoy tackling real-world projects that deepen my understanding of both front-end and back-end technologies. Currently, I’m seeking opportunities to contribute to professional projects and bring fresh ideas to a development team. <br /> <br />
-🌟 Tech Stack: JavaScript | React | Node.js | Express | MongoDB <br />
-💼 Open to work: Actively looking for entry-level roles or internships in web development <br />
-🚀 Goal: Build scalable and user-friendly applications while advancing my career in web development.<br />
+  <h1 style="color:#0891b2; margin-bottom: 5px;">Hi 👋, I'm Tarekul Islam Rifat</h1>
+  <h3 style="color:#64b5f6; font-weight: normal; margin-top: 0;">MERN Stack Web Developer</h3>
 
-- 🌍  I'm based in Comilla, Bangladesh.
-- ✉️  You can contact me at [tarekulrifat142@gmail.com](mailto:tarekulrifat142@gmail.com)
-- 🧠  I'm learning NEXTjs
-- 🤝  I'm open to collaborating on Full Stack Project
-- ⚡  /tarekul42
+  <p style="max-width: 600px; margin: 20px 0; line-height: 1.6;">
+    I'm a passionate MERN Stack Web Developer with hands-on experience in building full-stack applications. I've been learning web development since 2022, and I’m continuously working to expand my skill set. As a student, I enjoy tackling real-world projects that deepen my understanding of both front-end and back-end technologies. Currently, I’m seeking opportunities to contribute to professional projects and bring fresh ideas to a development team.
+  </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tarekul42&label=Profile%20views&color=0891b2&labelColor=1c1917&style=for-the-badge" alt="tarekul42" />
-</p> <a href="https://www.github.com/tarekul42" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tarekul42?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/tarekul42" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tarekul42?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+  <p style="font-size: 1.1em; margin-top: 10px;">
+    🌟 <strong>Tech Stack:</strong> JavaScript | React | Node.js | Express | MongoDB<br />
+    💼 <strong>Open to work:</strong> Actively looking for entry-level roles or internships in web development<br />
+    🚀 <strong>Goal:</strong> Build scalable and user-friendly applications while advancing my career in web development.
+  </p>
 
+  <ul style="list-style: none; padding: 0; margin: 20px 0; font-weight: 600; line-height: 1.8;">
+    <li>🌍  I'm based in Comilla, Bangladesh.</li>
+    <li>✉️  You can contact me at <a href="mailto:tarekulrifat142@gmail.com" style="color:#0891b2;">tarekulrifat142@gmail.com</a></li>
+    <li>🧠  I'm learning NEXTjs</li>
+    <li>🤝  I'm open to collaborating on Full Stack Project</li>
+    <li>⚡  /tarekul42</li>
+  </ul>
 
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
-
-<h3 align="left">Socials</h3>
-<p align="left">
-<a href="https://dev.to/tarekul42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarekul42" height="30" width="40" /></a>
-<a href="https://twitter.com/tarekul42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarekul42" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tarekul42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarekul42" height="30" width="40" /></a>
-<a href="https://fb.com/tarekul42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarekul42" height="30" width="40" /></a>
-<a href="https://instagram.com/tarekul.1001r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarekul.1001r" height="30" width="40" /></a>
-<a href="https://medium.com/@tarekul42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tarekul42" height="30" width="40" /></a>
-</p>
-
-<br/>
-
-<table style="border: none;">
-  <tr>
-    <td>
-      <a href="http://www.github.com/tarekul42">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact&text_color=ffffff&bg_color=1c1917&hide_border=true&title_color=0891b2" alt="tarekul42" />
+  <div style="margin: 20px 0; text-align: center;">
+    <img src="https://komarev.com/ghpvc/?username=tarekul42&label=Profile%20views&color=0891b2&labelColor=1c1917&style=for-the-badge" alt="tarekul42" style="border-radius: 5px;" />
+    <div style="margin-top: 10px;">
+      <a href="https://www.github.com/tarekul42" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/tarekul42?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
       </a>
-    </td>
-    <td>
-      <a href="http://www.github.com/tarekul42">
-        <img src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tarekul42's GitHub stats" />
+      <a href="https://www.x.com/tarekul42" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/twitter/follow/tarekul42?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter followers" />
       </a>
-    </td>
-  </tr>
-</table>
+      <a href="https://www.twitch.tv/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" alt="Twitch status" />
+      </a>
+    </div>
+  </div>
 
-<table style="border: none;">
-  <tr>
-    <td>
-      <a href="http://www.github.com/tarekul42"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekul42&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-  </tr>
-</table>
+  <h3 style="color:#0891b2; border-bottom: 2px solid #0891b2; padding-bottom: 8px; margin-top: 40px; margin-bottom: 15px;">Skills</h3>
+  <p style="text-align: right;">
+    <!-- Skills icons aligned right -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  </p>
 
-## Wakatime Stats
+  <h3 style="color:#0891b2; border-bottom: 2px solid #0891b2; padding-bottom: 8px; margin-top: 40px; margin-bottom: 10px;">Socials</h3>
+  <p style="text-align: right;">
+    <a href="https://dev.to/tarekul42" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DevTo" height="30" width="40" /></a>
+    <a href="https://twitter.com/tarekul42" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/tarekul42" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://fb.com/tarekul42" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+    <a href="https://instagram.com/tarekul.1001r" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://medium.com/@tarekul42" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+  </p>
 
-<a href="https://wakatime.com/@tarekul42" target="_blank">
-  <img src="https://wakatime.com/badge/user/d1558c50-fba1-48c5-87f4-805c3fe307ec.svg" alt="WakaTime Badge">
-</a>
+  <div style="margin-top: 30px;">
+    <table style="border: none; width: 100%;">
+      <tr>
+        <td style="text-align: right; width: 50%;">
+          <a href="http://www.github.com/tarekul42">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarekul42&show_icons=true&locale=en&layout=compact&text_color=ffffff&bg_color=1c1917&hide_border=true&title_color=0891b2" alt="Top languages" />
+          </a>
+        </td>
+        <td style="text-align: right; width: 50%;">
+          <a href="http://www.github.com/tarekul42">
+            <img src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 
-<a href="https://wakatime.com/@tarekul42" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarekul42&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff" alt="WakaTime Stats">
-</a>
+  <div style="margin-top: 20px; text-align: right;">
+    <a href="http://www.github.com/tarekul42">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekul42&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" />
+    </a>
+  </div>
 
+  <h3 style="color:#0891b2; margin-top: 40px;">Wakatime Stats</h3>
+  <div style="text-align: right;">
+    <a href="https://wakatime.com/@tarekul42" target="_blank">
+      <img src="https://wakatime.com/badge/user/d1558c50-fba1-48c5-87f4-805c3fe307ec.svg" alt="WakaTime Badge" />
+    </a>
+    <a href="https://wakatime.com/@tarekul42" target="_blank" style="margin-left: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarekul42&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff" alt="WakaTime Stats" />
+    </a>
+  </div>
 
-## GitHub Commit Graph
+  <h3 style="color:#0891b2; margin-top: 40px;">GitHub Commit Graph</h3>
+  <div style="text-align: right;">
+    <a href="http://www.github.com/tarekul42">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tarekul42&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+    </a>
+  </div>
 
-<a href="http://www.github.com/tarekul42">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tarekul42&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+  <h3 style="color:#0891b2; margin-top: 40px;">Badges</h3>
+  <p style="text-align: right;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=tarekul42" alt="GitHub Trophies" />
+    </a>
+  </p>
 
+  <h3 style="color:#0891b2; margin-top: 40px;">Top Repositories</h3>
+  <ul style="list-style: none; padding: 0; color: #ffffff; font-weight: 600; text-align: right;">
+    <li>🔹 <a href="https://github.com/tarekul42/EsPresso-Emporium-client.git" style="color:#64b5f6;">Project 1</a> - Description of what the project does</li>
+    <li>🔹 <a href="https://github.com/tarekul42/the-tour-of-Bangladesh_c.git" style="color:#64b5f6;">Project 2</a> - Short summary of this repository</li>
+    <li>🔹 <a href="https://github.com/tarekul42/broken-phone.git" style="color:#64b5f6;">Project 3</a> - Brief description of another project</li>
+  </ul>
 
-
-
-
-### Badges
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarekul42" alt="tarekul42" /></a> </p>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-## Top Repositories
-
-- [Project 1](https://github.com/tarekul42/EsPresso-Emporium-client.git) - Description of what the project does
-- [Project 2](https://github.com/tarekul42/the-tour-of-Bangladesh_c.git) - Short summary of this repository
-- [Project 3](https://github.com/tarekul42/broken-phone.git) - Brief description of another project
-(working with this part)
-
-
-<div width="100%" align="center"></div>
+</div>

@@ -36,8 +36,6 @@ Currently, I’m seeking opportunities to contribute to professional projects an
   </a>
 </p>
 
----
-
 <h2 align="center">🛠️ Skills</h2>
 
 <p align="center">
@@ -54,8 +52,6 @@ Currently, I’m seeking opportunities to contribute to professional projects an
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
----
-
 <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
@@ -67,16 +63,10 @@ Currently, I’m seeking opportunities to contribute to professional projects an
   <a href="https://medium.com/@tarekul42"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
 </p>
 
----
-
 <p align="center">
   <a href="https://wakatime.com/@tarekul42">
     <img src="https://wakatime.com/badge/user/d1558c50-fba1-48c5-87f4-805c3fe307ec.svg" alt="Wakatime Badge" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekul42&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
@@ -88,7 +78,9 @@ Currently, I’m seeking opportunities to contribute to professional projects an
   <img src="https://github-readme-stats.vercel.app/api?username=tarekul42&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekul42&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <a href="https://wakatime.com/@tarekul42">

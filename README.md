@@ -11,14 +11,13 @@ Currently, I’m seeking opportunities to contribute to professional projects an
 ---
 
 <p align="center">
-🌟 <strong>Tech Stack:</strong> JavaScript | React | Node.js | Express | MongoDB <br/>
-💼 <strong>Open to work:</strong> Entry-level roles or internships in web development <br/>
-🚀 <strong>Goal:</strong> Build scalable and user-friendly applications while advancing my career. <br/>
-🌍 <strong>Location:</strong> Comilla, Bangladesh <br/>
-✉️ <strong>Email:</strong> tarekulrifat142@gmail.com <br/>
-🧠 <strong>Currently learning:</strong> Next.js <br/>
-🤝 <strong>Looking to collaborate on:</strong> Full Stack Projects <br/>
-⚡ <strong>Username:</strong> /tarekul42
+🌟 JavaScript | React | Node.js | Express | MongoDB <br/>
+💼 Entry-level roles or internships in web development <br/>
+🚀 Build scalable and user-friendly applications while advancing my career. <br/>
+🌍 Comilla, Bangladesh <br/>
+✉️ tarekulrifat142@gmail.com <br/>
+🧠 Next.js <br/>
+🤝 Full Stack Projects <br/>
 </p>
 
 ---

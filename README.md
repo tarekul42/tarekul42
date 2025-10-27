@@ -78,8 +78,7 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-.. image:: https://wakatime.com/share/@tarekul42/9fa26a58-5cf8-4b95-ac1c-a45858ba121f.png
-    :target: https://wakatime.com/
+<figure><embed src="https://wakatime.com/share/@tarekul42/639f2bbf-499b-449b-a415-6db726c6a4b9.svg"></embed></figure>
 
 ## Top Repositories
 

@@ -78,6 +78,9 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+.. image:: https://wakatime.com/share/@tarekul42/9fa26a58-5cf8-4b95-ac1c-a45858ba121f.png
+    :target: https://wakatime.com/
+
 ## Top Repositories
 
 - [Project 1](https://github.com/tarekul42/EsPresso-Emporium-client.git) - Description of what the project does

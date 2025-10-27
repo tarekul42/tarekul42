@@ -61,6 +61,11 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
   </tr>
 </table>
 
+## Wakatime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## GitHub Commit Graph
 
 <a href="http://www.github.com/tarekul42">
@@ -78,9 +83,6 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Wakatime Stats
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tarekul42/a5754c69-41f2-49a6-b50d-5cdaf717b5c2.png" /></a>
 
 ## Top Repositories
 

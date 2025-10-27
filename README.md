@@ -63,8 +63,14 @@ src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&col
 
 ## Wakatime Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<a href="https://wakatime.com/@tarekul42" target="_blank">
+  <img src="https://wakatime.com/badge/user/d1558c50-fba1-48c5-87f4-805c3fe307ec.svg" alt="WakaTime Badge">
+</a>
+
+<a href="https://wakatime.com/@tarekul42" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarekul42&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff" alt="WakaTime Stats">
+</a>
+
 
 ## GitHub Commit Graph
 

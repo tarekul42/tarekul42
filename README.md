@@ -14,6 +14,10 @@ Currently, I’m learning advanced technologies like TypeScript, Prisma, Postgre
 <div align="center">
   <h3>⌛ Total Coding Time</h3>
   <a href="https://wakatime.com/@tarekul42" target="_blank">
+    <img src="https://wakatime.com/badge/user/d1558c50-fba1-48c5-87f4-805c3fe307ec.svg" alt="WakaTime Lifetime Badge">
+  </a>
+  <br/>
+  <a href="https://wakatime.com/@tarekul42" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarekul42&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
   </a>
 </div>

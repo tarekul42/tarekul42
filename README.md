@@ -32,7 +32,7 @@ Currently, I’m learning advanced technologies like TypeScript, Prisma, Postgre
 
 ### 💼 Current Goals
 - Build more **scalable full-stack applications** with clean architecture.  
-- Reach **1000+ hours on WakaTime** this year (currently nearing 800 🚀).  
+- Reach **1500+ hours on WakaTime** this year (currently nearing 800 🚀).  
 - Secure an **entry-level web developer role or internship** to grow professionally.  
 
 ---

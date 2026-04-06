@@ -2,11 +2,22 @@
 <h3 align="center">Curious & Humble MERN Stack Developer</h3>
 
 <p align="center" style="text-align: justify; max-width: 700px; margin: auto;">
-I'm a passionate MERN Stack Developer with a strong focus on writing clean, efficient, and scalable code. 
-I started learning web development in 2022 and have since completed two professional-level courses at 
-Programming Hero — covering both front-end and back-end development. 
-I enjoy solving complex problems and transforming ideas into practical digital experiences. 
-Currently, I’m learning advanced technologies like TypeScript, Prisma, PostgreSQL, and Next.js to sharpen my full-stack expertise.
+
+Backend-focused developer building structured and scalable web applications using the MERN stack.
+
+I specialize in Node.js and Express to design REST APIs with proper architecture, authentication, and error handling. I have worked on improving and restructuring existing projects, including migrating legacy JavaScript codebases to TypeScript to make them more maintainable and production-ready.
+
+<strong>Core Skills:</strong><br/>
+• Backend Development (Node.js, Express, MongoDB)<br/>
+• REST API Design & System Architecture<br/>
+• Authentication (JWT) & Middleware Handling<br/>
+• Code Refactoring (JavaScript → TypeScript)<br/>
+• Debugging & Real-world Problem Solving<br/>
+
+I also have solid frontend experience, allowing me to understand complete product flow — but my primary focus is backend engineering.
+
+Currently focused on building production-ready backend systems and shipping real-world projects.
+
 </p>
 
 ---

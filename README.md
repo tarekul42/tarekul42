@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarekul Islam Rifat</h1>
-<h3 align="center">Curious & Humble MERN Stack Developer</h3>
+<h3 align="center">Backend Developer | Node.js, Express, REST APIs | TypeScript</h3>
 
 <p align="center" style="text-align: justify; max-width: 700px; margin: auto;">
 

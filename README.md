@@ -37,14 +37,14 @@ Currently focused on building production-ready backend systems and shipping real
 
 ### 🧠 What I’m Learning
 - Deepening my understanding of **JavaScript**, **TypeScript**, **Node.js**, **Express**, **Redux**, **DBMS**, **SQL**, **PostgreSQL**, **Prisma**, and **Next.js**
-- Exploring **system design** and **backend optimization** for scalability and performance.
+- Improving my backend fundamentals, API design, and performance-aware development practices
 
 ---
 
 ### 💼 Current Goals
-- Build more **scalable full-stack applications** with clean architecture.  
-- Reach **1500+ hours on WakaTime** this year (currently nearing 800 🚀).  
-- Secure an **entry-level web developer role or internship** to grow professionally.  
+- Build more **scalable full-stack applications** with clean architecture and maintainable code
+- Stay consistent with my development practice and continue pushing beyond **800 WakaTime hours**
+- Secure an **entry-level web developer role** or **internship** where I can contribute, learn fast, and ship real features
 
 ---
 

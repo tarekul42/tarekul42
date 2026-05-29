@@ -41,4 +41,4 @@ Consistency · testing · maintainability · security · long-term system design
 
 [LinkedIn](https://linkedin.com/in/tarekul42) · [Dev.to](https://dev.to/tarekul42) · [Medium](https://medium.com/@tarekul42) · [Twitter](https://twitter.com/tarekul42)
 
-[![wakatime](https://wakatime.com/badge/user/d1558c0-fba1-48c5-87f4-805c3fe307ec.svg)](https://wakatime.com/@tarekul42)
+[![wakatime](https://wakatime.com/badge/user/d1558c50-fba1-48c5-87f4-805c3fe307ec.svg)](https://wakatime.com/@tarekul42)

@@ -1,28 +1,23 @@
 # Tarekul Islam Rifat
 
-Full-Stack Developer (MERN) — focused on backend architecture, security, and scalable systems.
-Self-taught start in mid-2022, sharpened through two Programming Hero bootcamps (2023 + 2025). My GitHub documents a journey from small learning experiments to production-grade engineering systems.
-
-📍 Dhaka, Bangladesh · 📧 tarekulrifat142@gmail.com · 🟢 Open to opportunities
-
-## 👀 Current Overview
-
-- 🔭 I'm working on — Next.js 16, React 19, TypeScript, and Express.js for full-stack development
-- 🌱 I'm exploring — Bun runtime, microservices architecture, and Prometheus + Grafana
-- 👯 I'm looking to — collaborate on open-source projects in fintech, edtech, and developer tooling
-- 💬 Ask me about — Full-Stack (React, Next.js, Node, Express, MongoDB, PostgreSQL) and backend security
-- 📫 Reach me at — tarekulrifat142@gmail.com
-- ⚡ Fun fact — I keep my earliest projects (Federal Blood Wave, 2023) visible to show my engineering evolution. Everyone starts somewhere.
+- 🔭 Currently building — Full-stack applications using Next.js, React, TypeScript, Express.js, PostgreSQL, and Prisma
+- 🌱 Exploring — Bun runtime, microservices architecture, observability, and system design
+- 👯 Interested in — Open-source contributions, developer tooling, fintech, and edtech products
+- 💬 Ask me about — React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, authentication, and backend architecture
+- 📫 Contact — tarekulrifat142@gmail.com
+- 🎯 Open to — Full-Stack Developer, Backend Developer, and Software Engineering opportunities
 
 ## Philosophy
-I learn by building repeatedly.
 
-Many repositories in this profile represent iterations of the same systems and ideas — authentication, backend architecture, frontend scalability, deployment workflows, and operational reliability.
+I learn by building.
 
-Rather than hiding earlier work, I keep the progression visible because it reflects how my engineering thinking evolved over time.
+My repositories document the evolution of my engineering thinking—from early experiments to increasingly maintainable and scalable software systems.
+
+Rather than hiding older projects, I keep them visible because they reflect the process of learning, iteration, and continuous improvement.
 
 ## Engineering Focus
-Backend Architecture — Modular monolith design · RBAC systems · queue workers & async processing · caching strategies · transactional safety · API design · system reliability
+
+Backend Architecture — Modular monolith design · RBAC systems · REST API design · authentication systems · background jobs · caching fundamentals
 
 Security — JWT rotation · CSRF protection · rate limiting · input validation · secure authentication flows · token blacklisting
 
@@ -88,5 +83,5 @@ Infrastructure & Testing — Docker · GitHub Actions · Vitest · Playwright ·
 [LinkedIn](https://linkedin.com/in/tarekul42) · [GitHub](https://github.com/tarekul42) · [Twitter](https://twitter.com/tarekul42) · [Facebook](https://facebook.com/tarekul42) · [Dev.to](https://dev.to/tarekul42) · [Medium](https://medium.com/@tarekul42) · [Portfolio](https://tarekul42.vercel.app)
 
 <p align="center">
-  <sub>Built with ❤️ by Tarekul Islam Rifat · Dhaka, Bangladesh 🇧🇩</sub>
+  <sub>Built by Tarekul Islam Rifat</sub>
 </p>

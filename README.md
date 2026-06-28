@@ -8,7 +8,7 @@ Full-Stack Developer (MERN) — focused on backend architecture, security, and s
 
 ---
 
-👋 About Me
+## 👋 About Me
 
 Full-Stack Developer with a strong focus on building secure, scalable, and maintainable web applications using the MERN stack, TypeScript, and Next.js. Passionate about backend architecture, system design, and continuously improving through building real-world software.
 
@@ -20,7 +20,7 @@ Full-Stack Developer with a strong focus on building secure, scalable, and maint
 
 ---
 
-🛠️ Engineering Focus
+## 🛠️ Engineering Focus
 
 Backend — REST APIs · Modular Architecture · Authentication · RBAC · Redis · Background Jobs
 
